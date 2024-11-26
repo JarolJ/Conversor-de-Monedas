@@ -17,11 +17,11 @@ Este proyecto es un **Conversor de Monedas** escrito en Python. Utiliza la API d
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-nombre-de-usuario/tu-repositorio.git
+   git clone https://github.com/JarolJ/Conversor-de-Monedas.git
    ```
 2. Navega al directorio del proyecto:
    ```sh
-   cd tu-repositorio
+   cd Conversor-de-Monedas
    ```
 3. Instala las dependencias necesarias:
    ```sh
