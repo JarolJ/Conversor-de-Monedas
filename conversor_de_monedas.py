@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 #Debes crearte una cuenta en https://app.exchangerate-api.com/ y obterer una API Key, son gratuitas
-API_KEY = 'Your_API_Keys'
+API_KEY = 'tu_clave_de_api'
 URL = f'https://v6.exchangerate-api.com/v6/{API_KEY}/latest/USD'
 
 #Función para obtener la tasa de cambio mediante una llamada a la API
